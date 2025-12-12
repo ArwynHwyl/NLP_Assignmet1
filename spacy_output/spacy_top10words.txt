@@ -1,0 +1,11 @@
+Word	Count
+said	462
+alice	398
+little	128
+know	88
+like	85
+went	83
+queen	75
+thought	74
+time	71
+king	63

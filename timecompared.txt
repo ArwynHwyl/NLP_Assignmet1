@@ -1,0 +1,7 @@
+Framework	Operation	Seconds
+NLTK	sent_tokenize	0.009653
+NLTK	word_tokenize	0.026800
+SpaCy	sent_tokenize	0.065984
+SpaCy	word_tokenize	0.066678
+TextBlob	sent_tokenize	0.001096
+TextBlob	word_tokenize	0.080184
